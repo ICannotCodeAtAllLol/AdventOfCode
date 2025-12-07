@@ -17,7 +17,7 @@ def count_zero_hits(lines, start=50):
             count += 1
     return count
 
-# Example test
+# Test with the data provided
 example = """L68
 L30
 R48
